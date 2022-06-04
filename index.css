@@ -1,9 +1,9 @@
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
     background: #1F2937;
     color: #fff;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -61,7 +61,7 @@ h1 {
     color: #D5D4D8;
     font-size: 11px;
     text-transform: uppercase;
-    
+
 }
 
 #invoice-footer {
@@ -75,13 +75,13 @@ h1 {
 #total-amount {
     font-weight: 600;
     font-size: 36px;
-    margin-top: 0px;   
+    margin-top: 0px;
 }
 
 #notes {
     margin-top: 0px;
     font-size: 12px;
-    
+
 }
 
 #send-btn {
@@ -112,7 +112,7 @@ h1 {
     display: inline-block;
     font-size: 8px;
     color: #D5D4D8;
-    
+
 }
 
 .service-item {

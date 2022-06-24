@@ -1,4 +1,4 @@
-👀 View the demo [here](https://fxhd1.github.io/invoice-generator/).
+👀 View the demo [here](https://dahliasan.github.io/invoice-generator/).
 
 # Overview
 Invoice generator for a fake business.
@@ -21,7 +21,6 @@ This is a project from the [Frontend Developer Career Path](https://scrimba.com/
 
 ## Links
 - [Solution on Scrimba](https://scrimba.com/scrim/co8bf4c5c998e7946b193acd3)
-- [Live demo](https://fxhd1.github.io/invoice-generator/)
 
 # Acknowledgements
 - [Frontend Developer Career Path](https://scrimba.com/learn/frontend) by Scrimba
